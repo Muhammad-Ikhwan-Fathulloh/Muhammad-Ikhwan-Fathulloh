@@ -26,7 +26,7 @@ I'm Collaboration with Nocturnailed, A90 Variation and Accesoris Motorcycle, Ark
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=sublime-text)
+  ![SublimeText](https://img.shields.io/badge/-SublimeText-black?style=flat-square&logo=sublime-text)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
