@@ -35,10 +35,10 @@ I'm Collaboration with Nocturnailed, A90 Variation and Accesoris Motorcycle, Ark
   ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/Mongodb-black?style=flat-square&logo=mongodb)
+  ![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)
 
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript)
-  ![Golang](https://img.shields.io/badge/Golang-green?style=flat-square&logo=golang)
+  ![Golang](https://img.shields.io/badge/Golang-green?style=flat-square&logo=go)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
