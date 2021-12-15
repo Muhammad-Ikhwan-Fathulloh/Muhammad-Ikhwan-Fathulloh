@@ -56,4 +56,14 @@ I'm Collaboration with Nocturnailed, A90 Variation and Accesoris Motorcycle, Ark
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
 
+## ⚡ GitHub Stats
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ikhwan-Fathulloh&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ikhwan-Fathulloh&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Muhammad-Ikhwan-Fathulloh&theme=gruvbox" />  
+<a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ikhwan-Fathulloh&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
+<a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ikhwan-Fathulloh&repo=Stundenplan&theme=gruvbox""></a>
+<a href="https://github.com/Muhammad-Ikhwan-Fathulloh/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ikhwan-Fathulloh&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
+<a href="https://github.com/Muhammad-Ikhwan-Fathulloh/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ikhwan-Fathulloh&repo=logstash-pipelines&theme=gruvbox""></a>  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101)
