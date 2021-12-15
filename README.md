@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/badge/-@MuhammadIkhwanFathulloh-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muhammad-ikhwan-fathulloh-4a9835165/)
 [![](https://img.shields.io/badge/-@MuhammadIkhwanFathulloh-%23181717?style=flat-square&logo=github)](https://github.com/Muhammad-Ikhwan-Fathulloh)
-[![](https://img.shields.io/badge/-@MuhammadIkhwanFathulloh-%23181717?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCBXuAApKa8JrN89t8Z2fekw)
+[![](https://img.shields.io/badge/-@MuhammadIkhwanFathulloh-%FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCBXuAApKa8JrN89t8Z2fekw)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=muhammadikhwanfathulloh-b5ac3.web.app&url=https%3A%2F%2Fmuhammadikhwanfathulloh-b5ac3.web.app)](https://muhammadikhwanfathulloh-b5ac3.web.app/)
 
 #I ❤️ Full-stack and Internet of Things Development!
