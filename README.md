@@ -9,7 +9,7 @@
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=muhammadikhwanfathulloh-b5ac3.web.app&url=https%3A%2F%2Fmuhammadikhwanfathulloh-b5ac3.web.app)](https://muhammadikhwanfathulloh-b5ac3.web.app/)
 
 ## I ❤️ Full-stack and Internet of Things Development!
-# Rumus Perubahan => { EM = 1/2m.v2 + m.g.h }
+### Rumus Perubahan => { EM = 1/2m.v2 + m.g.h }
 <br>
 I'm Study in Sekolah Tinggi Teknologi Bandung
 <br>
