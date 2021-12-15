@@ -15,10 +15,8 @@ Linkedln = https://www.linkedin.com/in/muhammad-ikhwan-fathulloh-4a9835165/
 
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Muhammad Ikhwan Fathulloh
 
-[![](https://img.shields.io/badge/-@Muhammad-Ikhwan-Fathulloh-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muhammad-ikhwan-fathulloh-4a9835165/)
-[![](https://img.shields.io/badge/-@Muhammad-Ikhwan-Fathulloh-%23181717?style=flat-square&logo=github)](https://github.com/Muhammad-Ikhwan-Fathulloh)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/xiaoluoboding)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
+[![](https://img.shields.io/badge/-@MuhammadIkhwanFathulloh-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muhammad-ikhwan-fathulloh-4a9835165/)
+[![](https://img.shields.io/badge/-@MuhammadIkhwanFathulloh-%23181717?style=flat-square&logo=github)](https://github.com/Muhammad-Ikhwan-Fathulloh)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://muhammadikhwanfathulloh-b5ac3.web.app/)
 
 𝑰 ❤️ 𝑭ull-stack 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
