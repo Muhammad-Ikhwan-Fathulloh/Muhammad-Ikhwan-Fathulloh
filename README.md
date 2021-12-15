@@ -51,6 +51,6 @@ I'm Collaboration with Nocturnailed, A90 Variation and Accesoris Motorcycle, Ark
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Muhammad-Ikhwan-Fathulloh"><img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ikhwan-Fathulloh&hide_border=true&show_icons=true" alt="Muhammad-Ikhwan-Fathulloh's github stats"></a>
 </p>
