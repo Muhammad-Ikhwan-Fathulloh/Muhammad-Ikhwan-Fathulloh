@@ -40,7 +40,7 @@ I'm Collaboration with Nocturnailed, A90 Variation and Accesoris Motorcycle, Ark
   ![ReactJS](https://img.shields.io/badge/ReactJS-black?style=flat-square&logo=react)
   ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=nodejs)
   
-  ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cpp)
+  ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=c++)
   ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
   ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)
   ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
