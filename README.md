@@ -2,6 +2,7 @@
 ## My name Muhammad Ikhwan Fathulloh
 
 [![](https://img.shields.io/badge/-@MuhammadIkhwanFathulloh-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muhammad-ikhwan-fathulloh-4a9835165/)
+[![](https://img.shields.io/badge/-@MuhammadIkhwanFathulloh-%23C51A4A?style=flat-square&logo=blogger&logoColor=ffffff)](https://www.instagram.com/ikhwan_fathulloh/)
 [![](https://img.shields.io/badge/-@MuhammadIkhwanFathulloh-%23181717?style=flat-square&logo=blogger&logoColor=ffffff)](https://muhammadikhwanfathulloh.blogspot.com/)
 [![](https://img.shields.io/badge/-@MuhammadIkhwanFathulloh-%23181717?style=flat-square&logo=github)](https://github.com/Muhammad-Ikhwan-Fathulloh)
 [![](https://img.shields.io/badge/-@MuhammadIkhwanFathulloh-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCBXuAApKa8JrN89t8Z2fekw)
