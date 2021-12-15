@@ -36,8 +36,10 @@ I'm Collaboration with Nocturnailed, A90 Variation and Accesoris Motorcycle, Ark
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/Mongodb-black?style=flat-square&logo=mongodb)
   ![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)
+  ![Codeigniter](https://img.shields.io/badge/Codeigniter-black?style=flat-square&logo=codeigniter)
   ![ReactJS](https://img.shields.io/badge/ReactJS-black?style=flat-square&logo=react)
   ![ExpressJS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express)
+  ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=node)
 
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
