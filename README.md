@@ -32,21 +32,21 @@ I'm Collaboration with Nocturnailed, A90 Variation and Accesoris Motorcycle, Ark
   ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
   
-  
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)
   ![Codeigniter](https://img.shields.io/badge/Codeigniter-black?style=flat-square&logo=codeigniter)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
   ![MongoDB](https://img.shields.io/badge/Mongodb-black?style=flat-square&logo=mongodb)
   ![ExpressJS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express)
   ![ReactJS](https://img.shields.io/badge/ReactJS-black?style=flat-square&logo=react)
   ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=node-js)
+  ![Golang](https://img.shields.io/badge/Golang-black?style=flat-square&logo=go)
   
   ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=c++)
   ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
   ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)
   ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
   ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
-  ![Golang](https://img.shields.io/badge/Golang-black?style=flat-square&logo=go)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
