@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muhammad-ikhwan-fathulloh-4a9835165/)
 [![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ikhwan_fathulloh/)
 [![](https://img.shields.io/badge/-Youtube-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCBXuAApKa8JrN89t8Z2fekw)
-[![](https://img.shields.io/badge/-Dribble-%23C51A4A?style=flat-square&logo=dribble&logoColor=ffffff)](https://dribbble.com/Ikhwan17)
+[![](https://img.shields.io/badge/-Dribbble-%23C51A4A?style=flat-square&logo=dribbble&logoColor=ffffff)](https://dribbble.com/Ikhwan17)
 [![](https://img.shields.io/badge/-Medium-%23181717?style=flat-square&logo=medium&logoColor=ffffff)](https://medium.com/@muhammadikhwanfathulloh17)
 [![](https://img.shields.io/badge/-Blogger-%23181717?style=flat-square&logo=blogger&logoColor=ffffff)](https://muhammadikhwanfathulloh.blogspot.com/)
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/Muhammad-Ikhwan-Fathulloh)
