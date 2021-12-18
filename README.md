@@ -24,9 +24,11 @@ I'm Business Internet of Things Developer in Hadid Technology
 I'm Collaboration with Nocturnailed, A90 Variation and Accesoris Motorcycle, Arkamaya Majalaya 
 <br>
 I'm Origami Artist in 
+<br>
 [![](https://img.shields.io/badge/-Origami Philosophy-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/origamiphilosophy/)
 <br>
 I'm Instructor Origami Hobby and Expert in 
+<br>
 [![](https://img.shields.io/badge/-Maya Hirai Origami School-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mayahiraiorigamischool/)
 
 
