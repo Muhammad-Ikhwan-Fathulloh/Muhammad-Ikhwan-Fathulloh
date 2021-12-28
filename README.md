@@ -9,6 +9,7 @@
 [![](https://img.shields.io/badge/-Blogger-%23181717?style=flat-square&logo=blogger&logoColor=ffffff)](https://muhammadikhwanfathulloh.blogspot.com/)
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/Muhammad-Ikhwan-Fathulloh)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=muhammadikhwanfathulloh-b5ac3.web.app&url=https%3A%2F%2Fmuhammadikhwanfathulloh-b5ac3.web.app)](https://muhammadikhwanfathulloh-b5ac3.web.app/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=muhammad-ikhwan-fathulloh.netlify.app.app&url=https%3A%2F%2Fmuhammad-ikhwan-fathulloh.netlify.app)](https://muhammad-ikhwan-fathulloh.netlify.app/)
 
 ## I ❤️ Full-stack and Internet of Things Development!
 ### Rumus Perubahan => { EM = 1/2m.v2 + m.g.h }
