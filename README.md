@@ -13,11 +13,11 @@
 ## I ❤️ Full-stack and Internet of Things Development!
 ### Rumus Perubahan => { EM = 1/2m.v2 + m.g.h }
 <br>
-I'm Study in Sekolah Tinggi Teknologi Bandung
+I'm Study in <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a>
 <br>
 I'm Organization in OXIGEN Sekolah Tinggi Teknologi Bandung
 <br>
-I'm Work Backend Laravel Programmer in Gesit STT Bandung
+I'm Work Backend Laravel Programmer in Gesit <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a>
 <br>
 I'm Business Internet of Things Developer in Hadid Technology
 <br>
