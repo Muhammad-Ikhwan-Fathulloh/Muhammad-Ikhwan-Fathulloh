@@ -29,7 +29,7 @@ I'm Instructor Origami Hobby and Expert in <a href="https://www.instagram.com/ma
 <br>
 My link <a href="https://gitlab.com/muhammadikhwanfathulloh17">Gitlab</a>
 <br>
-My Second Github <a href="https://github.com/koalaw4n">Koalawan</a>
+My Second Github <a href="https://github.com/koalaw4n">Koalawan</a> for project Artificial Intelegent
 
 
 ## 🚀💻 Technologies & Tools
