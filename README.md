@@ -61,6 +61,7 @@ My Second Github <a href="https://github.com/koalaw4n">Koalawan</a> for project 
   ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+  ![Dart](https://img.shields.io/badge/Dart-black?style=flat-square&logo=dart)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   
   ![Nextcloud](https://img.shields.io/badge/-Nextcloud-black?style=flat-square&logo=nextcloud)
