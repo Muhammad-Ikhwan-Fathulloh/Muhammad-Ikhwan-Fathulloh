@@ -44,7 +44,6 @@ My Second Github <a href="https://github.com/koalaw4n">Koalawan</a> for project 
   ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
   
-  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)
   ![Codeigniter](https://img.shields.io/badge/Codeigniter-black?style=flat-square&logo=codeigniter)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
@@ -64,6 +63,8 @@ My Second Github <a href="https://github.com/koalaw4n">Koalawan</a> for project 
   ![Dart](https://img.shields.io/badge/Dart-black?style=flat-square&logo=dart)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   
+  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+  ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
   ![Nextcloud](https://img.shields.io/badge/-Nextcloud-black?style=flat-square&logo=nextcloud)
 
 <p align="left">
