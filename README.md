@@ -51,7 +51,7 @@ My Second Github <a href="https://github.com/koalaw4n">Koalawan</a> for project 
   ![ExpressJS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express)
   ![ReactJS](https://img.shields.io/badge/ReactJS-black?style=flat-square&logo=react)
   ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=node-js)
-  ![Golang](https://img.shields.io/badge/Golang-black?style=flat-square&logo=go)
+  ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter)
   
   ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=c++)
   ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
@@ -62,6 +62,7 @@ My Second Github <a href="https://github.com/koalaw4n">Koalawan</a> for project 
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![Dart](https://img.shields.io/badge/Dart-black?style=flat-square&logo=dart)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Golang](https://img.shields.io/badge/Golang-black?style=flat-square&logo=go)
   
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
