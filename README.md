@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-Medium-%23181717?style=flat-square&logo=medium&logoColor=ffffff)](https://medium.com/@muhammadikhwanfathulloh17)
 [![](https://img.shields.io/badge/-Blogger-%23181717?style=flat-square&logo=blogger&logoColor=ffffff)](https://muhammadikhwanfathulloh.blogspot.com/)
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/Muhammad-Ikhwan-Fathulloh)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=muhammad-ikhwan-fathulloh&url=https%3A%2F%2Fmuhammad-ikhwan-fathulloh.netlify.app)](https://muhammad-ikhwan-fathulloh.netlify.app/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=muhammad-ikhwan-fathulloh&url=https%3A%2F%2Fikhwanfathulloh.nocturnailed.tech)](https://ikhwanfathulloh.nocturnailed.tech/)
 
 ## I ❤️ Full-stack and Internet of Things Development!
 ### Change Formula => { EM = 1/2m.v2 + m.g.h }
