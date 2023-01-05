@@ -65,6 +65,7 @@ My Second Github <a href="https://github.com/koalaw4n">Koalawan</a> for project 
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
   ![Nextcloud](https://img.shields.io/badge/-Nextcloud-black?style=flat-square&logo=nextcloud)
+  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws)
 
 <p align="left">
   <a href="https://github.com/Muhammad-Ikhwan-Fathulloh"><img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ikhwan-Fathulloh&hide_border=true&show_icons=true" alt="Muhammad-Ikhwan-Fathulloh's github stats"></a>
