@@ -17,7 +17,9 @@ I'm Study in <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandun
 <br>
 I'm Organization in <a href="https://oxigen.web.id/">OXIGEN Sekolah Tinggi Teknologi Bandung</a>
 <br>
-I'm Work Backend Laravel Programmer in Gesit <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a>
+I'm Work Backend Laravel Programmer in Pusdatin (Pusat Data dan Teknologi Informasi) <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a>
+<br>
+I'm Internet of Things Instructor in <a href="https://nusabot.id/">PT. Nusabot Inovasi Teknologi</a>
 <br>
 I'm Business Internet of Things Developer in Hadid Technology
 <br>
