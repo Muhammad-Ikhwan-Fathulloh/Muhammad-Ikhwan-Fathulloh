@@ -71,3 +71,8 @@ My Second Github <a href="https://github.com/koalaw4n">Koalawan</a> for project 
 <p align="left">
   <a href="https://github.com/Muhammad-Ikhwan-Fathulloh"><img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ikhwan-Fathulloh&hide_border=true&show_icons=true" alt="Muhammad-Ikhwan-Fathulloh's github stats"></a>
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Muhammad-Ikhwan-Fathulloh/count.svg" />
+</p>
