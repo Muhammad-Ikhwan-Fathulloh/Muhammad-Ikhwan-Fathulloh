@@ -50,6 +50,7 @@ My Second Github <a href="https://github.com/koalaw4n">Koalawan</a> for project 
   ![MongoDB](https://img.shields.io/badge/Mongodb-black?style=flat-square&logo=mongodb)
   ![ExpressJS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express)
   ![ReactJS](https://img.shields.io/badge/ReactJS-black?style=flat-square&logo=react)
+  ![VueJS](https://img.shields.io/badge/VueJS-black?style=flat-square&logo=vue)
   ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=node-js)
   ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter)
   
