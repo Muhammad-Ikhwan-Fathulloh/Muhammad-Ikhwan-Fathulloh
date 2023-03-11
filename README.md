@@ -21,6 +21,8 @@ I'm Work Backend Laravel Programmer in Pusdatin (Pusat Data dan Teknologi Inform
 <br>
 I'm Internet of Things Instructor in <a href="https://nusabot.id/">PT. Nusabot Inovasi Teknologi</a>
 <br>
+Design and IT in <a href="https://www.linkedin.com/company/green-economy-youth-org-geyo/">Green Economy Youth Organization</a>
+<br>
 I'm Business Internet of Things Developer in Hadid Technology
 <br>
 I'm Collaboration with Nocturnailed, A90 Variation and Accesoris Motorcycle, Arkamaya Majalaya 
