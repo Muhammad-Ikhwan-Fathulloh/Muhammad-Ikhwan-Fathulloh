@@ -23,9 +23,7 @@ I'm Internet of Things Instructor in <a href="https://nusabot.id/">PT. Nusabot I
 <br>
 I'm Design and IT in <a href="https://www.linkedin.com/company/green-economy-youth-org-geyo/">Green Economy Youth Organization</a>
 <br>
-I'm Business Internet of Things Developer in Hadid Technology
-<br>
-I'm Collaboration with Nocturnailed, A90 Variation and Accesoris Motorcycle, Arkamaya Majalaya 
+I'm Founder <a href="https://nocturnailed.tech/">Nocturnailed Tech</a>
 <br>
 I'm Origami Artist in <a href="https://www.instagram.com/origamiphilosophy/">Origami Philosophy</a>
 <br>
