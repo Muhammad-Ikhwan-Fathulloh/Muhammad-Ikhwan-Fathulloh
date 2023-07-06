@@ -13,7 +13,7 @@
 ## I ❤️ Full-stack and Internet of Things Development!
 ### Change Formula => { EM = 1/2m.v2 + m.g.h }
 <br>
-I'm graduate of <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a>
+I'm Graduate of <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a>
 <br>
 I'm Organization in <a href="https://oxigen.web.id/">OXIGEN Sekolah Tinggi Teknologi Bandung</a>
 <br>
