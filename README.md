@@ -13,11 +13,11 @@
 ## I ❤️ Full-stack and Internet of Things Development!
 ### Change Formula => { EM = 1/2m.v2 + m.g.h }
 <br>
-I'm Fresh Graduate of <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a>
+I'm Fresh Graduate of <a href="https://utb-univ.ac.id/">Universitas Teknologi Bandung</a>
 <br>
-I'm Demisioner Organization in <a href="">OXIGEN Sekolah Tinggi Teknologi Bandung</a>
+I'm Demisioner Organization in <a href="">OXIGEN Universitas Teknologi Bandung</a>
 <br>
-I'm Work Software Engineer in Pusdatin (Pusat Data dan Informasi) <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a>
+I'm Work Software Engineer in Direktorat Pusdatin (Pusat Data dan Informasi) <a href="https://utb-univ.ac.id/">Universitas Teknologi Bandung</a>
 <br>
 I'm Internet of Things Instructor in <a href="https://nusabot.id/">PT. Nusabot Inovasi Teknologi</a>
 <br>
