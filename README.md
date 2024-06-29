@@ -10,7 +10,8 @@
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/Muhammad-Ikhwan-Fathulloh)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=muhammad-ikhwan-fathulloh&url=https%3A%2F%2Fikhwanfathulloh.nocturnailed.tech)](https://ikhwanfathulloh.nocturnailed.tech/)
 
-## I ❤️ Full-stack and Internet of Things Development!
+## I ❤️ Full-stack, Internet of Things, and Artificial Intelegent Development!
+## I Learn DevOps, MLOps, and Cyber Security!
 ### Change Formula => { EM = 1/2m.v2 + m.g.h }
 <br>
 I'm Fresh Graduate of <a href="https://utb-univ.ac.id/">Universitas Teknologi Bandung</a>
