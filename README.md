@@ -18,7 +18,11 @@ I'm Fresh Graduate of <a href="https://utb-univ.ac.id/">Universitas Teknologi Ba
 <br>
 I'm Demisioner Organization in <a href="">OXIGEN Universitas Teknologi Bandung</a>
 <br>
-I'm Work Software Engineer in Direktorat Pusdatin (Pusat Data dan Informasi) <a href="https://utb-univ.ac.id/">Universitas Teknologi Bandung</a>
+I'm Work Software Engineer in Direktorat Pusdatin (Pusat Data dan Informasi) and Lecturer <a href="https://utb-univ.ac.id/">Universitas Teknologi Bandung</a>
+<br>
+I'm Artificial Intelegent Mentor in <a href="https://www.rubythalib.com/">Ruby Thalib AI & Data Consultant</a>
+<br>
+I'm Internet of Things Trainer in <a href="https://sanbercode.com/bootcamp/internet%20of%20things">Bootcamp Internet of Things at Sanbercode</a>
 <br>
 I'm Internet of Things Instructor in <a href="https://nusabot.id/">PT. Nusabot Inovasi Teknologi</a>
 <br>
