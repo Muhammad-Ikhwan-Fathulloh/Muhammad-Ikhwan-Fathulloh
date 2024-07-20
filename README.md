@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-Medium-%23181717?style=flat-square&logo=medium&logoColor=ffffff)](https://medium.com/@ikhwanfathulloh)
 [![](https://img.shields.io/badge/-Blogger-%23181717?style=flat-square&logo=blogger&logoColor=ffffff)](https://muhammadikhwanfathulloh.blogspot.com/)
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/Muhammad-Ikhwan-Fathulloh)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=muhammad-ikhwan-fathulloh&url=https%3A%2F%2Fikhwanfathulloh.nocturnailed.tech)](https://ikhwanfathulloh.netlify.app/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=muhammad-ikhwan-fathulloh&url=https%3A%2F%2Fikhwanfathulloh.netlify.app)](https://ikhwanfathulloh.netlify.app/)
 
 ## I ❤️ Full-stack, Internet of Things, and Artificial Intelegent Development!
 ## I Learn DevOps, MLOps, and Cyber Security!
