@@ -14,24 +14,6 @@
 ## I Learn DevOps, MLOps, and Cyber Security!
 ### Change Formula => { EM = 1/2m.v2 + m.g.h }
 <br>
-I'm Fresh Graduate of <a href="https://utb-univ.ac.id/">Universitas Teknologi Bandung</a>
-<br>
-I'm Demisioner Organization in <a href="">OXIGEN Universitas Teknologi Bandung</a>
-<br>
-I'm Work Software Engineer in Direktorat Pusdatin (Pusat Data dan Informasi) and Lecturer <a href="https://utb-univ.ac.id/">Universitas Teknologi Bandung</a>
-<br>
-I'm Artificial Intelegent Mentor in <a href="https://www.rubythalib.com/">Ruby Thalib AI & Data Consultant</a>
-<br>
-I'm Internet of Things Trainer in <a href="https://sanbercode.com/bootcamp/internet%20of%20things">Bootcamp Internet of Things at Sanbercode</a>
-<br>
-I'm Internet of Things Instructor in <a href="https://nusabot.id/">PT. Nusabot Inovasi Teknologi</a>
-<br>
-I'm Founder <a href="https://www.instagram.com/nocturnailed.team/">Nocturnailed Tech</a>
-<br>
-I'm Origami Artist in <a href="https://www.instagram.com/origamiphilosophy/">Origami Philosophy</a>
-<br>
-I'm Instructor Origami Hobby and Expert in <a href="https://www.instagram.com/mayahiraiorigamischool/">Maya Hirai Origami School</a>
-<br>
 My Second Github <a href="https://github.com/koalaw4n">Koalawan</a> for project Artificial Intelegent
 
 
