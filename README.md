@@ -14,7 +14,6 @@
 
 ### Change Formula => { EM = 1/2m.v2 + m.g.h }
 <br>
-My Second Github <a href="https://github.com/koalaw4n">Koalawan</a> for project Artificial Intelegent
 
 <p align="left">
   <a href="https://github.com/Muhammad-Ikhwan-Fathulloh"><img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ikhwan-Fathulloh&hide_border=true&show_icons=true" alt="Muhammad-Ikhwan-Fathulloh's github stats"></a>
