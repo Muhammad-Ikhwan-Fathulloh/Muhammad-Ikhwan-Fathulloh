@@ -1,5 +1,3 @@
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
-
 ### Hello guys 👋
 ## My name Muhammad Ikhwan Fathulloh
 
