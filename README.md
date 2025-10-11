@@ -32,20 +32,86 @@
 
 ### 🧭 About Me
 💬 **A blend of science and creativity.**  
-I’m passionate about transforming physics-based thinking into digital experiences from AI-driven systems to creative web solutions.
+I’m passionate about transforming physics-based thinking into digital experiences — from AI-driven systems to creative web and IoT solutions.
 
 - 🎓 Background in **Physics & Software Engineering**  
 - 🧠 Exploring **AI | IoT | Fullstack Development | DevOps**  
 - 🚀 Founder of **Nocturnailed**, a tech community for innovation & learning  
 - 🧩 Mentor & Trainer in **AI, IoT, and Web Development**  
-- 🌱 Always learning and sharing through talks, workshops, and articles  
+- 🌱 Always learning and sharing through **talks, workshops, and articles**
 
 ---
 
 ### 🧰 Tech Toolbox
+
+🚀 <strong>My Skill Stack</strong>  
+A curated collection of tools, technologies, and traits that shape my approach to building impactful software and educating communities.
+
+---
+
+🧱 <strong>Backend Development</strong>  
+Laravel, Express.js, Gin Gonic, and Spring Boot building scalable backend services with clean architecture, authentication, and RESTful APIs.  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,html,css,tailwind,python,flask,fastapi,php,laravel,mysql,postgres,docker,git,github,linux,ai,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,go,java,spring,mysql,postgres" />
 </p>
+
+---
+
+🎨 <strong>Frontend Development</strong>  
+Vue.js & Nuxt.js for modern SPAs, styled beautifully with Tailwind CSS and responsive UI design principles.  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind" />
+</p>
+
+---
+
+🤖 <strong>Artificial Intelligence</strong>  
+Machine Learning, NLP, and Computer Vision using PyTorch and TensorFlow integrating intelligent systems into real-world applications.  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+---
+
+🛡️ <strong>DevOps, Security & Pentest</strong>  
+Docker, Grafana, GitLab CI/CD, Kali Linux focusing on automation, monitoring, and secure coding practices.  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,grafana" />
+</p>
+
+---
+
+📱 <strong>Mobile Development</strong>  
+Developing native and hybrid mobile apps using Java (Android) and Dart (Flutter).  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,dart,flutter" />
+</p>
+
+---
+
+⚡ <strong>Electronics & IoT</strong>  
+IoT projects using ESP32, ESP8266, and Arduino connecting devices, data, and intelligence.  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,python" />
+</p>
+
+
+---
+
+### 🤝 Soft Skills & Highlights
+
+**🧭 Leadership** - Leading tech teams with empathy, vision, and strategic direction.  
+**🗣️ Communication** - Mentoring and teaching through clear articulation of complex ideas.  
+**🧠 Problem-Solving** - Analytical thinking, efficient debugging, and smart decision-making.  
+**📚 Teaching** - Passionate about simplifying technical concepts for diverse audiences.  
+**🤝 Collaboration** - Strong teamwork in multi-disciplinary, agile environments.  
+**🌱 Lifelong Learning** - Constantly exploring new technologies to stay future-ready.  
 
 ---
 
