@@ -32,7 +32,7 @@
 
 ### 🧭 About Me
 💬 **A blend of science and creativity.**  
-I’m passionate about transforming physics-based thinking into digital experiences — from AI-driven systems to creative web solutions.
+I’m passionate about transforming physics-based thinking into digital experiences from AI-driven systems to creative web solutions.
 
 - 🎓 Background in **Physics & Software Engineering**  
 - 🧠 Exploring **AI | IoT | Fullstack Development | DevOps**  
