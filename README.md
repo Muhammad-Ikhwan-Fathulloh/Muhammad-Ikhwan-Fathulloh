@@ -26,7 +26,7 @@
 > I believe that innovation lives at the intersection of **logic and imagination**.  
 > My favorite formula:  
 > <h3 align="center">💡 <code>E = ½mv² + mgh</code> → Energy + Motion = Innovation</h3>  
-> Because everything great starts with **movement and energy!**
+> Because everything great starts with movement and energy!
 
 ---
 
