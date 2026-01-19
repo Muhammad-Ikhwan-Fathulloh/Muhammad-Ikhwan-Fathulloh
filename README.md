@@ -3,7 +3,7 @@
 <h3 align="center">⚛️ Physics Nerd • 💻 Code Wizard • 🚀 Professional Googler</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh5bnk3MnJ3bnBzNjBxbTBqOGJmNnl5dGh5bnk3MnJ3bnBzNjBxbTBqOGJmNnl5/KztT2c4u8mYYUiMKdJ/giphy.gif" width="300" alt="Dr Stone Senku"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0c3Vub2J0cTBuMGs3NHZ0czY2OGp4M2ljcDAyMmFnamRrcWxhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y7wofsFQbx9hKuQlry/giphy.gif" width="300" alt="Dr Stone Senku"/>
 </p>
 
 <p align="center">
