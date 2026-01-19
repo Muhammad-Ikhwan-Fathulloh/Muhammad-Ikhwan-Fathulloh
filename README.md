@@ -121,7 +121,7 @@ ESP32, Arduino, Raspberry Pi basically bikin barang nyala-nyala sambil ngomong "
 **🌱 Lifelong Learning** - Belajar terus sampe tua (atau sampe tutorial YouTube kehabisan konten)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHV6M3E0dmtodHlmNDM5NTFjZnJreW41ZGN1dW95Z3M1Y2J1cXhjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Senku Thinking"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg4OWt4eHlxeXlucTRtM2FjbjJtOTltd284bXlhcjJhbWk2MnQ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f6UE4DwT9O5JynXgFH/giphy.gif" width="400" alt="Senku Thinking"/>
 </p>
 
 ### Yuk Kolaborasi!
