@@ -134,7 +134,7 @@ Gue open buat:
 atau DM aja di [**LinkedIn**](https://www.linkedin.com/in/muhammad-ikhwan-fathulloh/)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Y0cndiZjd0cWxxc2JvMzQ4NnY1YnR3emR0M3B3MWN2M2V5c2g5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Nt9EVk7AhEciCuFRQ/giphy.gif" width="400" alt="Senku Science"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWx1dmp6dDVuMzF0dmZnNGY0bG9zOTg4b2E3czJ0OWwxeWN5NmpsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoHoK1fzdoTWeot4UX/giphy.gif" width="400" alt="Senku Science"/>
 </p>
 
 <p align="center">
