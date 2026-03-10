@@ -1,13 +1,13 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Halo! Gue <span style="color:#00BFFF;">Muhammad Ikhwan Fathulloh</span></h1>
-<h3 align="center">⚛️ Physics Nerd • 💻 Code Wizard • 🚀 Professional Googler</h3>
+<h3 align="center">⚛️ Kutu Fisika • 💻 Penyihir Kode • 🚀 Jagoan Googling</h3>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0c3Vub2J0cTBuMGs3NHZ0czY2OGp4M2ljcDAyMmFnamRrcWxhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y7wofsFQbx9hKuQlry/giphy.gif" width="300" alt="Dr Stone Senku"/>
 </p>
 
 <p align="center">
-  <em>"10 billion percent akan bikin sesuatu yang keren!" - Senku vibes ⚗️</em>
+  <em>"10 miliar persen bakal bikin sesuatu yang keren!" - Vibes Senku ⚗️</em>
 </p>
 
 <!-- Social Icons -->
@@ -18,7 +18,7 @@
   <a href="https://dribbble.com/Ikhwan17"><img src="https://img.shields.io/badge/-Dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
   <a href="https://medium.com/@ikhwanfathulloh"><img src="https://img.shields.io/badge/-Medium-%23121011?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://github.com/Muhammad-Ikhwan-Fathulloh"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://ikhwanfathulloh.netlify.app/"><img src="https://img.shields.io/badge/🌐-Portfolio-0AB9E6?style=for-the-badge"/></a>
+  <a href="https://ikhwanfathulloh.netlify.app/"><img src="https://img.shields.io/badge/🌐-Portofolio-0AB9E6?style=for-the-badge"/></a>
 </p>
 
 <div align="center" style="
@@ -47,7 +47,7 @@
     background: rgba(0,0,0,0.3);
     border-radius: 5px;
   ">
-    E = mc² + ☕² → Energy = Massa Kopi × Kecepatan Ngetik
+    E = mc² + ☕² → Energi = Massa Kopi × Kecepatan Ngetik
   </p>
   
   <p style="color: #cccccc; font-size: 16px; margin: 10px 0; font-style: italic;">
@@ -60,7 +60,7 @@ Gue tuh campuran antara fisikawan yang suka ngitung sama developer yang suka bik
 
 *   🎓 Latar belakang **Fisika & Software Engineering**  
 *   🧠 Lagi asik explore **AI | IoT | Fullstack | DevOps**  
-*   🚀 Founder **Nocturnailed** (komunitas tech buat belajar bareng)  
+*   🚫 Founder **Nocturnailed** (komunitas tech buat belajar bareng)  
 *   🧩 Mentor & Trainer soal **AI, IoT, sama Web**  
 *   🌱 Hobi baru: Ngumpulin error message unik 🤡
 
@@ -138,6 +138,6 @@ atau DM aja di [**LinkedIn**](https://www.linkedin.com/in/muhammad-ikhwan-fathul
 </p>
 
 <p align="center">
-  <em>"Science is elegant, but coffee is essential." ☕⚗️</em><br/>
+  <em>"Sains itu elegan, tapi kopi itu harga mati." ☕⚗️</em><br/>
   <strong>Mari kita bikin sesuatu yang epic bareng! (Sambil ngopi tentunya) 🚀</strong>
 </p>
