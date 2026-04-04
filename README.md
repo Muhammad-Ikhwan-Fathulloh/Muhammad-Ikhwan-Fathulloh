@@ -3,7 +3,7 @@
 <h3 align="center">⚛️ Kutu Fisika • 💻 Penyihir Kode • 🚀 Jagoan Googling</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0c3Vub2J0cTBuMGs3NHZ0czY2OGp4M2ljcDAyMmFnamRrcWxhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y7wofsFQbx9hKuQlry/giphy.gif" width="300" alt="Dr Stone Senku"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZidG5iZmp0cmI1bDRzZmgxN2Z1OTNpM283b3FqdHB2NjUwbmdkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hnX2GGcMj2znkmIJO7/giphy.gif" width="300" alt="Dr Stone Senku"/>
 </p>
 
 <p align="center">
