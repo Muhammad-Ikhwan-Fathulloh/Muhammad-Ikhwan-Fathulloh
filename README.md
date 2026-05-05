@@ -1,143 +1,61 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Halo! Gue <span style="color:#00BFFF;">Muhammad Ikhwan Fathulloh</span></h1>
-<h3 align="center">⚛️ Kutu Fisika • 💻 Penyihir Kode • 🚀 Jagoan Googling</h3>
+# 👋 Hi, I'm Muhammad Ikhwan Fathulloh
+### ⚛️ Physics Geek • 💻 Code Alchemist • 🚀 Search Engine Pro
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZidG5iZmp0cmI1bDRzZmgxN2Z1OTNpM283b3FqdHB2NjUwbmdkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hnX2GGcMj2znkmIJO7/giphy.gif" width="300" alt="Dr Stone Senku"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZidG5iZmp0cmI1bDRzZmgxN2Z1OTNpM283b3FqdHB2NjUwbmdkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hnX2GGcMj2znkmIJO7/giphy.gif" width="280" alt="Senku Ishigami"/>
 </p>
 
 <p align="center">
-  <em>"10 miliar persen bakal bikin sesuatu yang keren!" - Vibes Senku ⚗️</em>
+  <em>"I am 10 billion percent sure we're going to build something epic!" ⚗️</em>
 </p>
 
-<!-- Social Icons -->
+<!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ikhwan-fathulloh/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ikhwan_fathulloh/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@ikhwanfathulloh"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://dribbble.com/Ikhwan17"><img src="https://img.shields.io/badge/-Dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-  <a href="https://medium.com/@ikhwanfathulloh"><img src="https://img.shields.io/badge/-Medium-%23121011?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://github.com/Muhammad-Ikhwan-Fathulloh"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://ikhwanfathulloh.netlify.app/"><img src="https://img.shields.io/badge/🌐-Portofolio-0AB9E6?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-ikhwan-fathulloh/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Muhammad-Ikhwan-Fathulloh"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://ikhwanfathulloh.netlify.app/"><img src="https://img.shields.io/badge/🌐-Portfolio-0AB9E6?style=flat-square"/></a>
+  <a href="https://www.youtube.com/@ikhwanfathulloh"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </p>
 
-<div align="center" style="
-  background: linear-gradient(90deg, #1a1a2e, #16213e, #0f3460);
-  border-radius: 10px;
-  padding: 30px 20px;
-  margin: 30px auto;
-  max-width: 800px;
-  color: white;
-">
-  <h2 style="color: #ffffff; font-size: 28px; font-weight: bold; margin: 0 0 20px 0;">
-    ⚡ Ketika Fisika Ketemu Coding
-  </h2>
-  
-  <p style="color: #00BFFF; font-size: 18px; margin: 10px 0;">
-    Percaya gak percaya, bug itu kayak energi gabisa hilang, cuma berpindah tempat 😂
-  </p>
-  
-  <p style="
-    color: #FFD700;
-    font-family: 'Courier New', monospace;
-    font-size: 24px;
-    font-weight: bold;
-    margin: 15px 0;
-    padding: 10px;
-    background: rgba(0,0,0,0.3);
-    border-radius: 5px;
-  ">
-    E = mc² + ☕² → Energi = Massa Kopi × Kecepatan Ngetik
-  </p>
-  
-  <p style="color: #cccccc; font-size: 16px; margin: 10px 0; font-style: italic;">
-    Tanpa kopi, hukum fisika gak berlaku!
-  </p>
-</div>
+---
 
-### Tentang Gue (Versi Singkat)
-Gue tuh campuran antara fisikawan yang suka ngitung sama developer yang suka bikin hal random tapi berguna. Dari AI sampe IoT, dari backend sampe frontend basically kalo ada Stack Overflow-nya, gue bisa 😎
+### ⚡ The Intersection of Physics & Code
+I bridge the gap between theoretical science and practical software engineering. Whether it's optimizing an AI model, designing microservices, or tinkering with hardware, I build systems that are as precise as a physics equation.
 
-*   🎓 Latar belakang **Fisika & Software Engineering**  
-*   🧠 Lagi asik explore **AI | IoT | Fullstack | DevOps**  
-*   🚫 Founder **Nocturnailed** (komunitas tech buat belajar bareng)  
-*   🧩 Mentor & Trainer soal **AI, IoT, sama Web**  
-*   🌱 Hobi baru: Ngumpulin error message unik 🤡
+*   🎓 **Background:** Physics & Software Engineering (Master's in AI focus)
+*   🏢 **Current:** Software Architect at UTB & IT Instructor
+*   🧪 **Lead:** Founder of **Noc Lab** (Modular AI & IoT Ecosystem)
+*   🌱 **Current Focus:** LLMs, RAG, and high-performance web frameworks
 
-### Senjata Andalan Gue
+---
 
-**🚀 Arsenal Skill**  
-Ini tools yang gue pake buat bikin sesuatu dari 0 sampe jadi (atau sampe crash, tergantung mood)
+### 🛠️ Technical Arsenal
 
-**🧱 Backend Magic**  
-Laravel buat yang elegan, Express.js buat yang cepet, Gin buat yang ngebut, Spring Boot buat yang serius.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | PHP (Laravel), Node.js (Express), Go (Gin), Java (Spring Boot) |
+| **Frontend** | Vue.js, Nuxt.js, TypeScript, Tailwind CSS, Three.js |
+| **AI & Data** | Python, PyTorch, TensorFlow, OpenCV, vLLM |
+| **IoT & Mobile** | ESP32, Arduino, C++, Flutter (Dart), Android Studio |
+| **DevOps** | Docker, Linux (Kali/Ubuntu), Git, CI/CD |
+
+---
+
+### 🧠 Beyond the Code
+*   **Problem Solving:** If Stack Overflow is down, I'm the designated "Human Debugger."
+*   **Mentorship:** Experienced in breaking down complex technical concepts for students and peers.
+*   **Scientific Mindset:** I don't just write code; I experiment, measure, and optimize.
+
+---
+
+### 🤝 Let's Collaborate
+I'm always open to discussing:
+*   Innovative Open Source projects
+*   AI & IoT Research
+*   Speaking engagements or technical workshops
+
+📬 **Reach out via [LinkedIn](https://www.linkedin.com/in/muhammad-ikhwan-fathulloh/) or my [Official Website](https://ikhwanfathulloh.netlify.app/)**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,go,java,spring,mysql,postgres" />
-</p>
-
-**🎨 Frontend Sorcery**  
-Vue.js sama Nuxt.js dipadu Tailwind CSS bikin UI yang "wah" tanpa pusing mikirin CSS.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind" />
-</p>
-
-**🤖 AI Stuff (Yang Katanya Bakal Ngambil Kerjaan Kita)**  
-PyTorch, TensorFlow, OpenCV basically bikin komputer jadi "pinter" (atau setidaknya lebih pinter dari bug gue).
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
-
-**🛡️ DevOps & Security (Biar Gak Kena Hack)**  
-Docker buat containerize, Git buat time travel, sama Kali Linux buat jadi hacker etis 😏
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux" />
-</p>
-
-**📱 Mobile Development**  
-Android Studio sama Flutter karena kode sekali, deploy dimana-mana (kalo gak error).
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,dart,flutter" />
-</p>
-
-**⚡ Electronics & IoT (Mainan Favorit)**  
-ESP32, Arduino, Raspberry Pi basically bikin barang nyala-nyala sambil ngomong "It's alive!"
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,python" />
-</p>
-
-### Soft Skills (Yang Sering Dilupain)
-
-**🧭 Leadership** - Ngerti kapan harus delegasi, kapan harus ngoding sendiri jam 3 pagi  
-**🗣️ Communication** - Bisa jelasin konsep susah pake bahasa manusia (bukan dokumentasi)  
-**🧠 Problem-Solving** - Kalo Stack Overflow down, gue jadi Stack Overflow-nya temen  
-**📚 Teaching** - Suka banget ngajarin orang sampe mereka paham (atau sampe bosen duluan)  
-**🤝 Collaboration** - Kerja tim itu penting, apalagi kalo ada yang bawa cemilan  
-**🌱 Lifelong Learning** - Belajar terus sampe tua (atau sampe tutorial YouTube kehabisan konten)
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg4OWt4eHlxeXlucTRtM2FjbjJtOTltd284bXlhcjJhbWk2MnQ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f6UE4DwT9O5JynXgFH/giphy.gif" width="400" alt="Senku Thinking"/>
-</p>
-
-### Yuk Kolaborasi!
-Gue open buat:
-*   🤝 Freelance & Project bareng (yang bayarannya jelas ya 😅)  
-*   🎓 Ngajar & Mentoring  
-*   🧪 Research yang nyeleneh tapi keren
-
-📬 **Kontak gue via:** [**Website Gue** 🌐](https://ikhwanfathulloh.netlify.app/)  
-atau DM aja di [**LinkedIn**](https://www.linkedin.com/in/muhammad-ikhwan-fathulloh/)
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWx1dmp6dDVuMzF0dmZnNGY0bG9zOTg4b2E3czJ0OWwxeWN5NmpsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoHoK1fzdoTWeot4UX/giphy.gif" width="400" alt="Senku Science"/>
-</p>
-
-<p align="center">
-  <em>"Sains itu elegan, tapi kopi itu harga mati." ☕⚗️</em><br/>
-  <strong>Mari kita bikin sesuatu yang epic bareng! (Sambil ngopi tentunya) 🚀</strong>
+  <em>"Science is elegant, but coffee is a requirement." ☕</em>
 </p>
