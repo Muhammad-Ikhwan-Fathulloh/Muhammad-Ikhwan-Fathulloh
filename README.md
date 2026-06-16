@@ -22,9 +22,9 @@
 ### ⚡ The Intersection of Physics & Code
 I bridge the gap between theoretical science and practical software engineering. Whether it's optimizing an AI model, designing microservices, or tinkering with hardware, I build systems that are as precise as a physics equation.
 
-*   🎓 **Background:** Physics & Software Engineering (Master's in AI focus)
+*   🎓 **Background:** Software & Hardware Engineering
 *   🏢 **Current:** Software Architect at UTB & IT Instructor
-*   🧪 **Lead:** Founder of **Noc Lab** (Modular AI & IoT Ecosystem)
+*   🧪 **Lead:** Founder of **Nocturnailed** (Modular AI & IoT Ecosystem)
 *   🌱 **Current Focus:** LLMs, RAG, and high-performance web frameworks
 
 ---
