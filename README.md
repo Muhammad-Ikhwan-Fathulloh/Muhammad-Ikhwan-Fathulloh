@@ -121,12 +121,6 @@ I build systems at the intersection of software engineering, AI, IoT, and data -
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ikhwan-Fathulloh&show_icons=true&count_private=true&theme=default"
-       height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ikhwan-Fathulloh&layout=compact&theme=default"
-       height="165" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ikhwan-Fathulloh&theme=default"
@@ -136,11 +130,6 @@ I build systems at the intersection of software engineering, AI, IoT, and data -
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ikhwan-Fathulloh&hide_border=true&theme=minimal"
        alt="GitHub Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ikhwan-Fathulloh&theme=flat&no-frame=true&margin-w=10&column=7"
-       alt="GitHub Trophies"/>
 </p>
 
 ---
